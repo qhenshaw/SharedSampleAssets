@@ -1,32 +1,22 @@
 {
-  "displayName": "[Package Name]",
+  "displayName": "Shared Sample Assets",
   "author": "Quin Henshaw",
-  "version": "1.0.0",
-  "name": "com.qhenshaw.[packagename]",
-  "documentationUrl": "https://github.com/qhenshaw/[repourl]",
-  "changelogUrl": "https://github.com/qhenshaw/[repourl]/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/qhenshaw/[repourl]/blob/main/LICENSE.md",
-  "description": "[Description here]",
-  "unity": "2020.1",
+  "version": "0.1.0",
+  "name": "com.qhenshaw.sharedsampleassets",
+  "documentationUrl": "https://github.com/qhenshaw/sharedsampleassets",
+  "changelogUrl": "https://github.com/qhenshaw/sharedsampleassets/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/qhenshaw/sharedsampleassets/blob/main/LICENSE.md",
+  "description": "A collection of shared assets used in my Unity Packages.",
+  "unity": "2021.3",
   "dependencies": {
     "com.unity.2d.sprite": "1.0.0",
-	"com.unity.ugui": "1.0.0"
+	"com.unity.inputsystem": "1.3.0"
   },
   "samples": [
-	{
-      "displayName": "[Sample 1 display name]",
-      "description": "[Sample 1 description]",
-      "path": "Samples~/[Sample1Location]"
-    },
     {
-      "displayName": "[Sample 2 display name]",
-      "description": "[Sample 2 description]",
-      "path": "Samples~/[Sample2Location]"
-    },
-	{
-      "displayName": "[Sample 3 display name]",
-      "description": "[Sample 3 description]",
-      "path": "Samples~/[Sample3Location]"
+      "displayName": "Shared Assets",
+      "description": "Shared assets used in a variety of packages.",
+      "path": "Samples~/SharedAssets"
     }
   ]
 }
