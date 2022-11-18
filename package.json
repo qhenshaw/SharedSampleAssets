@@ -6,7 +6,7 @@
   "documentationUrl": "https://github.com/qhenshaw/sharedsampleassets",
   "changelogUrl": "https://github.com/qhenshaw/sharedsampleassets/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/qhenshaw/sharedsampleassets/blob/main/LICENSE.md",
-  "description": "A collection of shared assets used in my Unity Packages.",
+  "description": "A collection of shared assets used in my Unity Packages. MAKE SURE YOU IMPORT THE SAMPLE!",
   "unity": "2021.3",
   "dependencies": {
     "com.unity.2d.sprite": "1.0.0",
