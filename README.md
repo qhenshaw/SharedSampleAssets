@@ -1,4 +1,4 @@
-# [Package Name]
+# Shared Sample Assets
 [![Unity 2021.1+](https://img.shields.io/badge/unity-2020.1%2B-blue.svg)](https://unity3d.com/get-unity/download)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE.md)
 
