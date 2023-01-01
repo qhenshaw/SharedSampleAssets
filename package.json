@@ -1,7 +1,7 @@
 {
   "displayName": "Shared Sample Assets",
   "author": "Quin Henshaw",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "com.qhenshaw.sharedsampleassets",
   "documentationUrl": "https://github.com/qhenshaw/sharedsampleassets",
   "changelogUrl": "https://github.com/qhenshaw/sharedsampleassets/blob/main/CHANGELOG.md",
@@ -9,8 +9,8 @@
   "description": "A collection of shared assets used in my Unity Packages. MAKE SURE YOU IMPORT THE SAMPLE!",
   "unity": "2021.3",
   "dependencies": {
-    "com.unity.2d.sprite": "1.x.x",
-	"com.unity.inputsystem": "1.x.x"
+    "com.unity.2d.sprite": "1.0.0",
+	"com.unity.inputsystem": "1.4.4"
   },
   "samples": [
     {
